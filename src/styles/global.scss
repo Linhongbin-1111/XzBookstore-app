@@ -1,0 +1,64 @@
+// 修改输入框的全局样式
+.el-form {
+  .el-form-item {
+    margin: 0 auto;
+    .el-form-item__label {
+      width: 80px !important;
+      margin-left: -30px;
+    }
+    .el-form-item__content {
+      width: 200px;
+      .el-select {
+        width: 200%;
+      }
+      .el-radio-group {
+        .el-radio {
+          .el-radio__input.is-checked+.el-radio__label {
+            color: rgb(192, 149, 96);
+          }
+          .el-radio__input.is-checked {
+            .el-radio__inner {
+              background-color: rgb(192, 149, 96);
+              border: rgb(192, 149, 96);
+            }
+          }
+        }
+      }
+
+      .el-input {
+        background-color: #ffffff !important;
+        .el-input__inner {
+          border-radius: 0;
+          height: 30px;
+          width: 230px;
+          border: none;
+          border-bottom: 1px solid rgb(217, 217, 217);
+          background-color: #ffffff !important;
+        }
+      }
+    }
+  }
+}
+
+// 修改按钮公共样式
+.el-button {
+  padding: 0 15px;
+  border-radius: 0;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+// 修改confirm提示框样式
+.el-message-box__wrapper {
+  .el-message-box {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+  }
+  .el-message.el-message--success {
+    width: 250px;
+  }
+}
+// 修改提示消息框样式

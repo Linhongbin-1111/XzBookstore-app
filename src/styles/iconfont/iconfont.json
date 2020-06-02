@@ -1,0 +1,65 @@
+{
+  "id": "1685723",
+  "name": "东软学院（京东商城）",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "400083",
+      "name": "定位",
+      "font_class": "htmal5icon14",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "430540",
+      "name": "右箭头",
+      "font_class": "arrow-right",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "1110411",
+      "name": "下箭头",
+      "font_class": "jiantou9",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "3216185",
+      "name": "相机",
+      "font_class": "icon--",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "8875694",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "10515596",
+      "name": "右箭头",
+      "font_class": "youjiantou-copy",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "11749444",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "12978146",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
